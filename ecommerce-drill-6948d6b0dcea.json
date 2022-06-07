@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ecommerce-drill",
+  "private_key_id": "6948d6b0dcea5b3555128ab5daf74bf13603e8ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCvNN09BY+8hLPN\nJP647Um1wR0ECFxacNGbSHxTbC8zn9rCwA1UvteQKx04Cr3OJ6u1qhOVFJME1A62\n4D4BK5DXMlf/EQ0p23gTqaHSdk8dcAhcVF7oBP8pqXuGlORHFwsOHZjQIMowPhjY\n7hgxAxXV1xhbP+9Gr/JUZmnFnIXWsM79D3KNtGYYIiddHTzR9d/0AZxF8PSMG/Ba\nTC5pUf6P7umZrAgCVPXPVsjXgJ9mPCWoxUSgNiKE9mA3/wYay6RbFaMtHYnuEDFZ\nASvcfqi5xHoM2J2nOr6KT5ma12ibecY/9nipjZR3dLAZUGOECXOXKVDZznQktkPL\nY3QcBRWBAgMBAAECggEAUZfsakUjRbeFJoXSjFuRRrAa66xbGhFNRCQzJgSNTNzm\nm2imLK+9otm5P0adUxsdd7ovaW+N8iMxgRAYQCJCTz2WRmZx+2rGVl3ayzEmsf5h\nHmJ6WlItZIEV0jyXvNWp49Z7un1yu5nHp4rmQDkAG7iSkrhJHeHFmHGjU5CLscmZ\nrOKzwxou8db391k3Vnq1aQXDirhbZJ/DhBSRoE3LzkAd4DrdSkb8xEpg9lKuKlPw\nvUjRI5phwJKQvg9YbWQnTEjSPEQwXuZ37zpKkmZjZ7uqS9iLLQ2cbh7Ayfk+o7KI\nN9j5Ld3A4WYGGOrY55UWoKS8XyEDqZSPaCjtM63PywKBgQDvvIAcDBYa0H0kTpZA\nCCh5QzChsmIIPLAbYpeXRaR1u5ffene6pD0JEeHOzETqniV0SKVcBXLsRr7fyTCl\nbu6ruxt1qTSGd7VuZ2D1c/ASmLPGAYVODIOB7ShmdSRuHSsOXFmOgt+aDSURrxRN\nDgrw2WBI0CJMJGVzKxklJJlhkwKBgQC7F6yxqZUeDouaS2rCzCz7KUn1tAYuEQxV\n5/+hUaxM8b+QJ/aePdgeTSBRBhLS+TLHZD8sv2vYgWiqBuOPpkJqeR2VIh8ieswX\nLCu6g8aW2Xh1z5JyHo6cTvO7pPEdSVdc1ysENHg/fvd/Ht3W9AeGnVRusWzjh+G3\n9KxIi3PpGwKBgQDCnGHe4sza7Z5457a+uiCo96s1yAoep61KPcnTSfyMekF6b/9b\nqtHFWBfXeSkE0GaVNBfQULgPKArwvXDZCumCzPwokrgJ5ImK2y7xcjFT11Qwi7F8\nP1pOEYg3TCbLoLAAE2W782+yrbMG3Pp85sZo5/1qflMpPm6AhF8AMOq2MwKBgQCd\nXahwN0ep5Gof+dduyfX7vBrtg+K+1LAfgehOdDgM8DpEspiJOVOTCSRpgkZLFjhT\n5koNBWVc0lyKxwiZRysOC5mKWwz9H3SS+SA+3aAoOftMfK+dNX6WkwIHjxEPpSTK\nfmE8RDXwkobyca/+oXvDCop+INaJ+z0sUaynyERSiQKBgQDK2sDMEZrSiO2WarD/\nn3bjZuQwzkRsnqRX3Xf6VAuj4vgY4/RD1+MkOeNXnkbXZugpho8nGKQBn1WIRnXi\nMrzWmX6fXFMm0pmVotogr2nHgNQHY8sF4/TaWY4U++ftWo2arI9F+Kr8SwpDtqAs\nVkkIpsD1mHi+yr7w1OSAirwM8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ote-1-208@ecommerce-drill.iam.gserviceaccount.com",
+  "client_id": "114752363135937365613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ote-1-208%40ecommerce-drill.iam.gserviceaccount.com"
+}
